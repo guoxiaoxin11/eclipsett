@@ -13,6 +13,7 @@ public class demo {
 
 		System.out.println("bbbbb冲突代码");
 		System.out.println("eeeee冲突代码");
+		System.out.println("9876");
 	}
 
 }
