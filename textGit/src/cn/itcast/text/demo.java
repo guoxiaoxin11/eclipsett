@@ -5,6 +5,7 @@ public class demo {
 		System.out.println("11111111111");
 		System.out.println("右添加22222");
 		System.out.println("左添加33333");
+		System.out.println("左冲突代码22");
 	}
 
 }
