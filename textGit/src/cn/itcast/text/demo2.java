@@ -7,7 +7,10 @@ public class demo2 {
 		int s=0;
 		for (int i = 0; i < 10; i++) {
 			System.out.println("aaaaa"+s++);
+
 			System.out.println("1234");
+
+			System.out.println("vvvvv");
 		}
 	}
 
