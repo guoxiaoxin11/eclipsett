@@ -8,7 +8,10 @@ public class demo {
 		System.out.println("左冲突代码22");
 		System.out.println("右冲突代码11");
 		System.out.println("aaaaa");
+
 		System.out.println("ccccc冲突代码");
+
+		System.out.println("bbbbb冲突代码");
 	}
 
 }
